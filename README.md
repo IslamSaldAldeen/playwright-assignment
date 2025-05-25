@@ -29,7 +29,7 @@ The following functionalities have been implemented and tested:
 ├── .gitignore # Ignored files and folders
 ├── global-setup.ts # Reuse login state before tests
 ├── playwright.config.ts # Playwright configuration
-└── README.md # This file
+└── README.md 
 
 ## ✅ Concepts Used
 
